@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\TEMP.1406-02.001\source\repos\laba25\laba25\Source.c(13,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  laba25.vcxproj -> C:\Users\TEMP.1406-02.001\source\repos\laba25\x64\Debug\laba25.exe
